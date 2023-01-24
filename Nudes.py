@@ -57,8 +57,8 @@ NUDE = [
           "https://graph.org/file/ad4d5e8cecfe4514b8864.jpg",
           "https://graph.org/file/aa2706a3adef6157b9635.jpg",
           "https://graph.org/file/8b076842455540ff87cf4.jpg",
-https://te.legra.ph/file/f1b40793c472c5db8d87a.mp4
-https://te.legra.ph/file/ba12f5dcd06fd9f416b90.mp4
+          "https://te.legra.ph/file/f1b40793c472c5db8d87a.mp4",
+          "https://te.legra.ph/file/ba12f5dcd06fd9f416b90.mp4",
 https://te.legra.ph/file/f0b5f300c3eb2fae90385.mp4
 https://te.legra.ph/file/a227c13605ff01c3f2014.mp4
 https://te.legra.ph/file/380080d9938a406892cb7.mp4
