@@ -138,22 +138,36 @@ NUDE = [
           "https://te.legra.ph/file/c03256da54fbf1a7d1d45.jpg",
           "https://te.legra.ph/file/5e1c93eda7bb1220ab46e.jpg",
           "https://te.legra.ph/file/c8dec57eceec031fa522d.jpg",
-          "
-          "
-          "
-          "
-          "
-          "
-          "
-          "
-          "
-          "
-          "
-          "
-          "
-          "
-          "
-          "
+          "https://te.legra.ph/file/027580dbf31e5d551e5fa.jpg",
+          "https://te.legra.ph/file/907c6e379bebc2e78cca5.jpg
+          "https://te.legra.ph/file/5084dc50f564de29ac59c.jpg
+          "https://te.legra.ph/file/64861e752934f63b0ecda.jpg
+          "https://te.legra.ph/file/e78c2c648ee5f81096b99.jpg
+          "https://te.legra.ph/file/e75e765cbe1dd750dfff6.jpg
+          "https://te.legra.ph/file/26b2375ce0fbe6b87462e.jpg
+          "https://te.legra.ph/file/2ac8af04d4f88fdf3b1e0.jpg
+          "https://te.legra.ph/file/a482b5ccd78c6177a0065.jpg
+          "https://te.legra.ph/file/81f8ca3463c56f988546a.jpg
+          "https://te.legra.ph/file/5a6927876c12c7e2dd4c1.jpg
+          "https://te.legra.ph/file/7f725c68ac48e95257935.jpg
+          "https://te.legra.ph/file/e876d5f4fdc9716261d45.jpg
+          "https://te.legra.ph/file/4bee755b5f6396a4521a8.jpg
+          "https://te.legra.ph/file/66b884ce3c7268741a2cf.jpg
+          "https://te.legra.ph/file/d70fc5df2ae6b3ed7f1f3.jpg
+          "https://te.legra.ph/file/5a6927876c12c7e2dd4c1.jpg
+          "https://te.legra.ph/file/7f725c68ac48e95257935.jpg
+          "https://te.legra.ph/file/e876d5f4fdc9716261d45.jpg
+          "https://te.legra.ph/file/4bee755b5f6396a4521a8.jpg
+          "https://te.legra.ph/file/3ba8cebaad5c50c3c7ea3.jpg
+          "https://te.legra.ph/file/1580df94076029a61b619.jpg
+          "https://te.legra.ph/file/25c072852f3ac23e7a534.jpg
+          "https://te.legra.ph/file/b08c2379bb59881add036.jpg
+          "https://te.legra.ph/file/d4e4bb76be36faff9347c.jpg
+          "https://te.legra.ph/file/35605e8b0594cdd14ec22.jpg
+          "https://te.legra.ph/file/b005a1e722569f3baaae0.jpg
+          "https://te.legra.ph/file/8bf79c817ce3d289d337e.jpg
+          "https://te.legra.ph/file/b0b2907d8272b7fe31059.jpg
+          "https://te.legra.ph/file/9d24d7d64b84e0f9955e5.jpg
 
 ]
 
