@@ -168,7 +168,57 @@ NUDE = [
           "https://te.legra.ph/file/8bf79c817ce3d289d337e.jpg
           "https://te.legra.ph/file/b0b2907d8272b7fe31059.jpg
           "https://te.legra.ph/file/9d24d7d64b84e0f9955e5.jpg
-
+          "https://te.legra.ph/file/38bd0e6d1592b213579c4.jpg
+          "https://te.legra.ph/file/c816e6ef8d18dfd035d2d.jpg
+          "https://te.legra.ph/file/d9ee66c16d99cfaafc2fc.jpg
+          "https://te.legra.ph/file/243e98a2a69ff389537f3.jpg
+          "https://te.legra.ph/file/b2616225af7ec7e61bae7.jpg
+          "https://te.legra.ph/file/94881e71354c8d837f39b.jpg
+          "https://te.legra.ph/file/7159942bbe6c3f6d7bf83.jpg
+          "https://te.legra.ph/file/5183bc9b11fad8df92ad5.jpg
+          "https://te.legra.ph/file/2c28e4bfb7f37d86dbdde.jpg
+          "https://te.legra.ph/file/3ce5e914d2139f8c64f07.jpg
+          "https://te.legra.ph/file/8d14cd8541bf8f94ba711.jpg
+          "https://te.legra.ph/file/68d0ceba73222d4f9d7b0.jpg
+          "https://te.legra.ph/file/958adfe1e1ffcb174076b.jpg
+          "https://te.legra.ph/file/1e04df8a75b40cf499415.jpg
+          "https://te.legra.ph/file/1e04df8a75b40cf499415.jpg
+          "https://te.legra.ph/file/f3bd5b4e32250f142a723.jpg
+          "https://te.legra.ph/file/20d0247cbae185578667c.jpg
+          "https://te.legra.ph/file/4c8d2b878fb38682e7e86.jpg
+          "https://te.legra.ph/file/fb5f5a1956f431a88ac6b.jpg
+          "https://te.legra.ph/file/5f31c6a7f27e7d1ae564b.jpg
+          "https://te.legra.ph/file/5e70d29ede992f196ffdf.jpg
+          "https://te.legra.ph/file/8c17942f1af178ea12c9b.jpg
+          "https://te.legra.ph/file/812ae33de413abc1d34ce.jpg
+          "https://te.legra.ph/file/333973764bf02d5fa36f7.jpg
+          "https://te.legra.ph/file/c9155f7f221e74df07440.jpg
+          "https://te.legra.ph/file/0dbd19ad816c908ec2edc.jpg
+          "https://te.legra.ph/file/0acdb6e2efcbbea29309a.jpg
+          "https://te.legra.ph/file/864fd187b5446597cad3a.jpg
+          "https://te.legra.ph/file/30999a0208f7f6ed9c8bc.jpg
+          "https://te.legra.ph/file/49cdbff6e336e28475482.jpg
+          "https://te.legra.ph/file/c55d36dd2e3a5f23ca156.jpg
+          "https://te.legra.ph/file/6211c49f26a448a69f4bb.jpg
+          "https://te.legra.ph/file/4eb69b1565da5b3df9919.jpg
+          "https://te.legra.ph/file/f7902da5ab630827669a2.jpg
+          "https://te.legra.ph/file/8b24f28a0be6412fc61c3.jpg
+          "https://te.legra.ph/file/8b24f28a0be6412fc61c3.jpg
+          "https://te.legra.ph/file/23bfb8e93c0fb4efeadaf.jpg
+          "https://te.legra.ph/file/f6b53d45a2d82ef498c6a.jpg
+          "https://te.legra.ph/file/879828b168ed1a5d0c1e2.jpg
+          "https://te.legra.ph/file/3a4694f8ee4dbfe37a564.jpg
+          "https://te.legra.ph/file/316b46010c97b94186723.jpg
+          "https://te.legra.ph/file/f6b53d45a2d82ef498c6a.jpg
+          "https://te.legra.ph/file/fd6b3b3d35e28ccf327b5.jpg
+          "https://te.legra.ph/file/271e7ade9aff83e2ce96f.jpg
+          "https://te.legra.ph/file/2da63b63608837b3eaa57.jpg
+          "https://te.legra.ph/file/495ef0ebbd6d77fe5d3c2.jpg
+          "https://te.legra.ph/file/3503e9f8a1b7f0392b377.jpg
+          "https://te.legra.ph/file/e309f229a7883c8ee001c.jpg
+          "
+          "
+          "
 ]
 
 app = FastAPI()
