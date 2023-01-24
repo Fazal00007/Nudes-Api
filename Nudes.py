@@ -59,30 +59,30 @@ NUDE = [
           "https://graph.org/file/8b076842455540ff87cf4.jpg",
           "https://te.legra.ph/file/f1b40793c472c5db8d87a.mp4",
           "https://te.legra.ph/file/ba12f5dcd06fd9f416b90.mp4",
-https://te.legra.ph/file/f0b5f300c3eb2fae90385.mp4
-https://te.legra.ph/file/a227c13605ff01c3f2014.mp4
-https://te.legra.ph/file/380080d9938a406892cb7.mp4
-https://te.legra.ph/file/a512c31e95175520d0331.mp4
-https://te.legra.ph/file/d295649fd9471f4092424.mp4
-https://te.legra.ph/file/3a1752f79472f0648dd7e.mp4
-https://te.legra.ph/file/4479037a28947ba1d0249.mp4
-https://te.legra.ph/file/6b13339486ab6c8c83df6.mp4
-https://te.legra.ph/file/cc7c1822ea498ececf65a.mp4
-https://te.legra.ph/file/a882421970e7f600e8d3c.mp4
-https://te.legra.ph/file/aa02149a462f6f8495e8a.mp4
-https://te.legra.ph/file/90765abc4200b7f28d41f.mp4
-https://te.legra.ph/file/4be9400898d497a6dee09.mp4
-https://te.legra.ph/file/4be9400898d497a6dee09.mp4
-https://te.legra.ph/file/fe1e7cb3d6a60e4285cb0.mp4
-https://te.legra.ph/file/1bd5c94482d7a82210a25.mp4
-https://te.legra.ph/file/1bd5c94482d7a82210a25.mp4
-https://te.legra.ph/file/bb934e0d1344c9a005d4d.mp4
-https://te.legra.ph/file/0021efe61fee2505ea590.mp4
-https://te.legra.ph/file/7e7924665d58d55f627fd.mp4
-https://te.legra.ph/file/b914497b31b3dba446f18.mp4
-https://te.legra.ph/file/5596d6e58c2074640caae.mp4
-https://te.legra.ph/file/47c7e73d18770908d974d.mp4
-https://te.legra.ph/file/172b83d8f950683da6032.mp4
+          "https://te.legra.ph/file/f0b5f300c3eb2fae90385.mp4
+          "https://te.legra.ph/file/a227c13605ff01c3f2014.mp4
+          "https://te.legra.ph/file/380080d9938a406892cb7.mp4
+          "https://te.legra.ph/file/a512c31e95175520d0331.mp4
+          "https://te.legra.ph/file/d295649fd9471f4092424.mp4
+          "https://te.legra.ph/file/3a1752f79472f0648dd7e.mp4
+          "https://te.legra.ph/file/4479037a28947ba1d0249.mp4
+          "https://te.legra.ph/file/6b13339486ab6c8c83df6.mp4
+          "https://te.legra.ph/file/cc7c1822ea498ececf65a.mp4
+          "https://te.legra.ph/file/a882421970e7f600e8d3c.mp4
+          "https://te.legra.ph/file/aa02149a462f6f8495e8a.mp4
+          "https://te.legra.ph/file/90765abc4200b7f28d41f.mp4
+          "https://te.legra.ph/file/4be9400898d497a6dee09.mp4
+          "https://te.legra.ph/file/4be9400898d497a6dee09.mp4
+          "https://te.legra.ph/file/fe1e7cb3d6a60e4285cb0.mp4
+          "https://te.legra.ph/file/1bd5c94482d7a82210a25.mp4
+          "https://te.legra.ph/file/1bd5c94482d7a82210a25.mp4
+          "https://te.legra.ph/file/bb934e0d1344c9a005d4d.mp4
+          "https://te.legra.ph/file/0021efe61fee2505ea590.mp4
+          "https://te.legra.ph/file/7e7924665d58d55f627fd.mp4
+          "https://te.legra.ph/file/b914497b31b3dba446f18.mp4
+          "https://te.legra.ph/file/5596d6e58c2074640caae.mp4
+          "https://te.legra.ph/file/47c7e73d18770908d974d.mp4
+          "https://te.legra.ph/file/172b83d8f950683da6032.mp4
 https://te.legra.ph/file/a4ec1a5bf30542ab8fbe7.mp4
 https://te.legra.ph/file/34ffd6b5b3655decbd0f0.mp4
 https://te.legra.ph/file/0a188dd176ef6f71fb326.mp4
